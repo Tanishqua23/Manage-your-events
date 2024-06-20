@@ -1,2 +1,2 @@
-# Event-Management-System-using-MERN
-Event Management System 
+# Event-Management-System
+ 
